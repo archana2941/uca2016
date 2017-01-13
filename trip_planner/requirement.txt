@@ -9,3 +9,9 @@ I should be able to login and register as user
 I should be able to I should be able to create itnerary with start location, end location and places to visit
 I should be able to book return tickets 
 I should be able to rate the trip and webportal
+
+Group members:
+Anmol Arora 1410991084
+Anmol Mann 1410991086
+Anubhav Mahajan 1410991094
+Archana Masoan 1410991104
