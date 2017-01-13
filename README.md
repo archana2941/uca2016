@@ -1,4 +1,4 @@
-# uca2016
+# uca2016_web_dev
 1. Install Node
 
 	a. $sudo apt-get install nodejs
